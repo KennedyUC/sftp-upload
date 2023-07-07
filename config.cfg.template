@@ -1,0 +1,8 @@
+# Specify your credentials accordingly
+[GCP]
+HOST_NAME        = <external-ip>
+USERNAME         = <server-username>
+PASSWORD         = <server-password>
+CREDENTIAL_PATH  = <gcp-serviceaccount-credentials.json>
+BUCKET_NAME      = <bucket-name>
+PROJECT_ID       = <project-name>
